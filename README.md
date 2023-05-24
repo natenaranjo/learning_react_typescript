@@ -1,46 +1,59 @@
-# Getting Started with Create React App
+# Learning React Typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Codevolution - [React TypeScript Tutorial](https://youtu.be/xNSIHFi8o2M)
 
-## Available Scripts
+    Just a simple tutorial on learning how to use TypeScript in React!.
 
-In the project directory, you can run:
+---
+### React TypeScript Tutorial:
 
-### `npm start`
+  - [x] - Lesson 1: Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  - [x] - Lesson 2: Getting Started
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  - [x] - Lesson 3: Typing Props
 
-### `npm test`
+  - [x] - Lesson 4: Basic Props
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  - [x] - Lesson 5: Advance Props
 
-### `npm run build`
+  - [x] - Lesson 6: Event Props
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  - [ ] - Lesson 7: Style Props
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  - [ ] - Lesson 8: Prop Types and Tips
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  - [ ] - Lesson 9: useState Hook
 
-### `npm run eject`
+  - [ ] - Lesson 10: useState Future Value
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  - [ ] - Lesson 11: useState Type Assertion
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - [ ] - Lesson 12: useReducer Hook
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  - [ ] - Lesson 13: useReducer Strict Action Types
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  - [ ] - Lesson 14: useConte  t Hook
 
-## Learn More
+  - [ ] - Lesson 15: useConte  t Future Value
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  - [ ] - Lesson 16: useRef Hook
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  - [ ] - Lesson 17: Class Component
+
+  - [ ] - Lesson 18: Component Prop
+
+  - [ ] - Lesson 19: Generic Props
+
+  - [ ] - Lesson 20: Restricting Props
+
+  - [ ] - Lesson 21: Template Literals and E  clude
+
+  - [ ] - Lesson 22: Wrapping HTML Elements
+
+  - [ ] - Lesson 23: E  tracting a Component Prop
+
+  - [ ] - Lesson 24: Polymorphic Components
+
+  - [ ] - Lesson 25: Wrapping up
+
