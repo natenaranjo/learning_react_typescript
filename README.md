@@ -19,7 +19,7 @@
 
   - [x] - Lesson 6: Event Props
 
-  - [ ] - Lesson 7: Style Props
+  - [x] - Lesson 7: Style Props
 
   - [ ] - Lesson 8: Prop Types and Tips
 
@@ -33,9 +33,9 @@
 
   - [ ] - Lesson 13: useReducer Strict Action Types
 
-  - [ ] - Lesson 14: useConte  t Hook
+  - [ ] - Lesson 14: useContent Hook
 
-  - [ ] - Lesson 15: useConte  t Future Value
+  - [ ] - Lesson 15: useContent Future Value
 
   - [ ] - Lesson 16: useRef Hook
 
@@ -47,11 +47,11 @@
 
   - [ ] - Lesson 20: Restricting Props
 
-  - [ ] - Lesson 21: Template Literals and E  clude
+  - [ ] - Lesson 21: Template Literals and Exclude
 
   - [ ] - Lesson 22: Wrapping HTML Elements
 
-  - [ ] - Lesson 23: E  tracting a Component Prop
+  - [ ] - Lesson 23: Extracting a Component Prop
 
   - [ ] - Lesson 24: Polymorphic Components
 
